@@ -1,52 +1,66 @@
-# Retail Sales Dashboard
+# Retail Sales Performance Dashboard | Power BI
 
-## Project Overview
-This project is an interactive **Retail Sales Dashboard** built in **Power BI** to analyse sales performance, monitor key business metrics, and identify trends across products, regions, and time periods. The dashboard helps turn raw sales data into clear and actionable insights for decision-making.
+## Overview
+This project focuses on analyzing retail sales data to uncover trends, improve profitability, and support better business decisions. I designed and developed an interactive dashboard in Power BI to monitor key performance indicators such as sales, profit, product performance, category revenue, and regional results.
 
-## Objectives
-The aim of this project was to:
-- Track overall sales performance
-- Analyse monthly and yearly sales trends
-- Identify top-performing and underperforming products
-- Compare regional sales performance
-- Support business decision-making using data visualisation
+## Objective
+The goal of this project was to answer important business questions:
+
+- Which region generates the highest sales and profit?
+- Which product category performs best?
+- Which products generate the most profit?
+- How do sales change over time?
+- Where should the business focus to increase revenue?
 
 ## Tools Used
-- **Power BI** – dashboard creation and visualisation
-- **Power Query** – data cleaning and transformation
-- **DAX** – calculated measures and KPI creation
-- **CSV** – source dataset
+
+- Power BI  
+- Power Query  
+- DAX  
+- Data Cleaning  
+- Data Visualization  
+- Business Intelligence  
 
 ## Dashboard Features
-- Total Sales KPI
-- Profit / Revenue tracking
-- Monthly sales trends
-- Regional performance analysis
-- Product category comparison
-- Interactive slicers for filtering data
-- Visual insights for business performance
 
-## Key Insights
-Some of the insights obtained from the dashboard include:
-- Sales showed clear monthly patterns, with some periods performing better than others.
-- Certain regions contributed more strongly to total revenue.
-- Some product categories outperformed others consistently.
-- The dashboard made it easier to identify trends, opportunities, and areas needing improvement.
+- KPI Cards for Total Sales, Total Profit, and Profit Margin
+- Monthly Sales Trend Analysis
+- Sales by Category
+- Regional Performance Comparison
+- Top 10 Products by Profit
+- Interactive Category Slicer
 
-## Data Cleaning and Preparation
-Before building the dashboard, the data was prepared by:
-- Checking for missing values
-- Correcting data types
-- Cleaning inconsistent entries
-- Transforming columns in Power Query
-- Creating calculated measures using DAX for better analysis
+## Key Results
 
-## Business Value
-This dashboard helps businesses:
-- monitor performance quickly,
-- identify sales patterns,
-- compare results across regions and categories,
-- make more informed decisions based on data.
+- Total Sales: 2.30M
+- Total Profit: 286K
+- Profit Margin: 12.47%
+- West Region had the highest sales and profit
+- Technology category generated the highest revenue
+- December showed the strongest sales performance
+
+## Business Recommendations
+
+### Regional Strategy
+Increase stock allocation and marketing investment in the West region, as it is the strongest performing market.
+
+### Growth Opportunity
+Investigate low performance in the South region and improve sales strategy.
+
+### Product Strategy
+Focus on high-profit products such as Canon, HP, and Fellowes items.
+
+### Seasonal Planning
+Prepare inventory before December and run promotions in January and February.
+
+## Skills Demonstrated
+
+- Data Analysis
+- Dashboard Development
+- Business Insight Generation
+- KPI Reporting
+- Data Storytelling
+- Decision Support  Analytics
 
 ## Author
 **Nqobile Sithole**  
